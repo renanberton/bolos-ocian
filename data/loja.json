@@ -1,0 +1,25 @@
+{
+  "nomeLoja": "Bolos Ocian",
+  "whatsapp": "5513981852471",
+  "mensagemContato": "Olá, Bolos Ocian! Gostaria de tirar uma dúvida.",
+  "quantidadeMaxima": 20,
+  "rodape": {
+    "slogan": "A melhor fábrica de bolos de Praia Grande: bolos caseiros, tortas salgadas e delivery.",
+    "endereco": "Av. Dr. Vicente de Carvalho, 361 - Cidade Ocian",
+    "telefone": "(13) 3471-5181",
+    "horario": [
+      "Seg. a sáb.: 9h às 19h",
+      "Domingo: fechado"
+    ],
+    "instagram": "",
+    "facebook": ""
+  },
+  "seo": {
+    "cidade": "Praia Grande",
+    "estado": "SP",
+    "cep": "11704-300",
+    "horarios": [
+      "Mo-Sa 09:00-19:00"
+    ]
+  }
+}

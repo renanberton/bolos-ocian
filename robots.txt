@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renanberton.github.io/bolos-ocian/sitemap.xml
